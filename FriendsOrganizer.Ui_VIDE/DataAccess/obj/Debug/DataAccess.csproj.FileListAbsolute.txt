@@ -1,0 +1,15 @@
+C:\Users\stagiaire\Desktop\WPF_MVVM\FriendsOrganizer.Ui_VIDE\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\stagiaire\Desktop\WPF_MVVM\FriendsOrganizer.Ui_VIDE\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\stagiaire\Desktop\WPF_MVVM\FriendsOrganizer.Ui_VIDE\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\stagiaire\Desktop\WPF_MVVM\FriendsOrganizer.Ui_VIDE\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\stagiaire\Desktop\WPF_MVVM\FriendsOrganizer.Ui_VIDE\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\stagiaire\Desktop\WPF_MVVM\FriendsOrganizer.Ui_VIDE\DataAccess\bin\Debug\Autofac.dll
+C:\Users\stagiaire\Desktop\WPF_MVVM\FriendsOrganizer.Ui_VIDE\DataAccess\bin\Debug\Autofac.pdb
+C:\Users\stagiaire\Desktop\WPF_MVVM\FriendsOrganizer.Ui_VIDE\DataAccess\bin\Debug\Autofac.xml
+C:\Users\stagiaire\Desktop\WPF_MVVM\FriendsOrganizer.Ui_VIDE\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\stagiaire\Desktop\WPF_MVVM\FriendsOrganizer.Ui_VIDE\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\stagiaire\Desktop\WPF_MVVM\FriendsOrganizer.Ui_VIDE\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stagiaire\Desktop\WPF_MVVM\FriendsOrganizer.Ui_VIDE\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\stagiaire\Desktop\WPF_MVVM\FriendsOrganizer.Ui_VIDE\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stagiaire\Desktop\WPF_MVVM\FriendsOrganizer.Ui_VIDE\DataAccess\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\stagiaire\Desktop\WPF_MVVM\FriendsOrganizer.Ui_VIDE\DataAccess\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
